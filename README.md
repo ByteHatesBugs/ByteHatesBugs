@@ -1,6 +1,6 @@
 <div align="center">
 
-# Byte <img src="assets/profile/kitty-code-full-body.png" width="104" align="absmiddle" alt="Kitty Code in a black hoodie" />
+# Byte <img src="assets/profile/standing-cat.png" width="124" align="absmiddle" alt="Byte, the grumpy coding cat" />
 
 ### Grumpy coding mentor · explains it twice · judges your semicolons quietly
 
@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td width="24%" align="center">
-      <img src="assets/profile/kitty-code-typing.png" width="115" alt="Kitty Code typing" /><br />
+      <img src="assets/profile/coding-at-desk.png" width="190" alt="Byte coding at a desk" /><br />
       <sub><b>me reading your error</b><br />
       <i>it literally says the problem</i></sub>
     </td>
@@ -23,7 +23,7 @@
       Powered by <b>coffee</b>, <b>pineapple</b>, and the distant dream of <b>sleep</b>. Natural enemy: <b>bugs</b>.
     </td>
     <td width="24%" align="center">
-      <img src="assets/profile/kitty-code-thinking-clean.png" width="92" alt="Kitty Code thinking" /><br />
+      <img src="assets/profile/sleeping-bag.png" width="190" alt="Byte sleeping in a pineapple-covered sleeping bag" /><br />
       <sub><b>me explaining the same bug</b><br />
       <i>okay, one more time...</i></sub>
     </td>
@@ -117,7 +117,7 @@ Turning ideas into 3D scenes and occasionally moving a vertex for 40 minutes. It
       <sub>no question is silly. except the one the console already answered.</sub>
     </td>
     <td width="50%" align="center">
-      <img src="assets/profile/kitty-code-coffee-clean.png" width="92" alt="Kitty Code drinking coffee" /><br />
+      <img src="assets/profile/coffee-break.png" width="190" alt="Byte taking a coffee break at a desk" /><br />
       <sub><b>coffee + pineapple acquired</b><br />
       <i>now show me the bug report ☕🍍</i></sub>
     </td>
