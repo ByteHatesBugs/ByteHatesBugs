@@ -6,14 +6,10 @@ I build useful web experiences and teach software in a clear, practical way. My 
 
 ## What I work with
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,django,supabase,postgres,blender&perline=10" alt="JavaScript, TypeScript, React, HTML, CSS, Python, Django, Supabase, PostgreSQL, and Blender logos" />
-</p>
-
-- **Frontend:** JavaScript, TypeScript, React, HTML, CSS
-- **Backend:** Python, Django, Supabase
-- **Data:** SQL, PostgreSQL, PL/pgSQL
-- **Creative:** Blender
+- <img src="https://skillicons.dev/icons?i=react" width="20" height="20" align="absmiddle" alt="" /> **Frontend:** JavaScript, TypeScript, React, HTML, CSS
+- <img src="https://skillicons.dev/icons?i=django" width="20" height="20" align="absmiddle" alt="" /> **Backend:** Python, Django, Supabase
+- <img src="https://skillicons.dev/icons?i=postgres" width="20" height="20" align="absmiddle" alt="" /> **Data:** SQL, PostgreSQL, PL/pgSQL
+- <img src="https://skillicons.dev/icons?i=blender" width="20" height="20" align="absmiddle" alt="" /> **Creative:** Blender
 
 ## How I work
 
