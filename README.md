@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Byte 👋</h1>
+  <h1>Hi, I'm Byte — I build things and interrogate bugs 👋</h1>
   <p><b>Developer · Educator · Professional Bug Hater</b></p>
   <p>I build useful web experiences, dependable systems, and explanations that make the <i>why</i> behind the code click.</p>
 
@@ -7,12 +7,12 @@
   <img src="https://img.shields.io/badge/Mode-Build%20%7C%20Teach%20%7C%20Debug-111827?style=flat-square" alt="Build, teach, and debug" />
   <img src="https://img.shields.io/badge/Bugs-Handled%20with%20care-16A34A?style=flat-square" alt="Bugs handled with care" />
   <br /><br />
-  <img src="assets/kitty-code-coffee.png" width="820" alt="Byte, the orange cat developer, enjoying coffee at a laptop" />
+  <img src="assets/kitty-code-coffee-lite.jpg" width="820" alt="Byte, the orange cat developer, enjoying coffee at a laptop" />
 </div>
 
 ---
 
-## What I do
+## What I build
 
 - **Build interfaces** that feel clear, fast, and easy to use.
 - **Develop backends** that stay dependable after the demo ends.
@@ -21,7 +21,7 @@
 
 > I like software the way I like coffee: strong, reliable, and nowhere near the keyboard.
 
-## Toolbox
+## Toolbox (handle with care)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,django,supabase,postgres,blender" alt="JavaScript, TypeScript, React, HTML, CSS, Python, Django, Supabase, PostgreSQL, and Blender" />
@@ -30,7 +30,9 @@
 <br />
 
 <div align="center">
-  <img src="assets/meme-full-stack-bugs.png" width="900" alt="Full-stack developer: I collect bugs in every layer" />
+  <img src="assets/meme-git-glowup.jpg" width="700" alt="Code written to make it work versus polished code pushed to Git" />
+  <br />
+  <sub>Meme: <a href="https://programmerhumor.io/git-memes/the-git-glow-up-qjfi">ProgrammerHumor</a></sub>
 </div>
 
 ## How I work
@@ -47,7 +49,9 @@
 No unnecessary complexity, mystery abstractions, or “trust me, it works” deployments.
 
 <div align="center">
-  <img src="assets/meme-rubber-duck-debugging.png" width="900" alt="Explained the bug to the duck; the cat found the fix" />
+  <img src="assets/meme-ctrl-z-relief.jpg" width="700" alt="The relief of recovering deleted code with Control Z" />
+  <br />
+  <sub>Meme: <a href="https://www.boredpanda.com/funny-programming-memes-jokes/">Bored Panda</a></sub>
 </div>
 
 ## How I teach
@@ -75,17 +79,19 @@ My preferred lesson plan:
   <summary><b>Meet the rest of the engineering department 🐾</b></summary>
   <br />
   <div align="center">
-    <img src="assets/kitty-code-coding.png" width="850" alt="Byte coding at a laptop" />
+    <img src="assets/kitty-code-coding-lite.jpg" width="850" alt="Byte coding at a laptop" />
     <br /><br />
-    <img src="assets/kitty-code-standing.png" width="460" alt="Byte standing in a black coding hoodie" />
+    <img src="assets/kitty-code-standing-lite.jpg" width="460" alt="Byte standing in a black coding hoodie" />
     <br /><br />
-    <img src="assets/kitty-code-sleeping.png" width="540" alt="Byte sleeping in a cozy black sleeping bag" />
+    <img src="assets/kitty-code-sleeping-lite.jpg" width="540" alt="Byte sleeping in a cozy black sleeping bag" />
   </div>
 </details>
 
 ---
 
 <div align="center">
-  <h3>Deployment complete. Monitoring has begun.</h3>
-  <img src="assets/meme-production-sleep.png" width="900" alt="Pushed to production; now we pretend to sleep" />
+  <h3>Deployment complete. Confidence suspiciously high.</h3>
+  <sub>Final meme: <a href="https://medium.com/@devlinktips/ai-vibe-coding-is-killing-junior-dev-careers-or-is-it-e26966e4ae22">BuildShift on Medium</a></sub>
+  <br /><br />
+  <img src="assets/meme-production-reality.jpg" width="700" alt="AI-written code passes tests before production goes down" />
 </div>
