@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi, I'm Byte 👋</h1>
+  <h1>Byte</h1>
   <p><b>Developer · Educator · Professional Bug Hater</b></p>
-  <p>I build useful web experiences, dependable systems, and explanations that make the <i>why</i> behind the code click.</p>
+  <p>Building thoughtful web experiences, dependable systems, and clear explanations that make the <i>why</i behind the code click.</p>
 
   <img src="https://img.shields.io/badge/Focus-Web%20Development-F97316?style=flat-square&logo=codeigniter&logoColor=white" alt="Focus: Web Development" />
   <img src="https://img.shields.io/badge/Mode-Build%20%7C%20Teach%20%7C%20Debug-111827?style=flat-square" alt="Build, teach, and debug" />
@@ -12,16 +12,16 @@
 
 ---
 
-## What I build
+## What I Do
 
-- **Build interfaces** that feel clear, fast, and easy to use.
-- **Develop backends** that stay dependable after the demo ends.
-- **Work with data** without pretending every query was correct on the first try.
-- **Teach software** with practical examples, plain language, and zero gatekeeping.
+- **Frontend development:** Clear, responsive interfaces designed around real user needs.
+- **Backend development:** Dependable systems that continue working after the demo ends.
+- **Data work:** Practical database solutions—with no claim that every query is right on the first attempt.
+- **Software education:** Clear explanations, useful examples, and zero gatekeeping.
 
 > I like software the way I like coffee: strong, reliable, and nowhere near the keyboard.
 
-## Toolbox (handle with care)
+## Technical Toolkit
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,django,supabase,postgres,blender" width="460" alt="JavaScript, TypeScript, React, HTML, CSS, Python, Django, Supabase, PostgreSQL, and Blender" />
@@ -33,18 +33,20 @@
   <sub>Meme: <a href="https://programmerhumor.io/git-memes/the-git-glow-up-qjfi">ProgrammerHumor</a></sub>
 </div>
 
-## How I work
+## Development Approach
 
-| Step | What happens |
+| Phase | Focus |
 | --- | --- |
-| **01 · Understand** | Clarify the real problem before touching the code. |
-| **02 · Build** | Make the smallest useful change with readable code. |
-| **03 · Verify** | Test the behavior, edge cases, and assumptions. |
-| **04 · Explain** | Document the reasoning so the next person is not forced to become an archaeologist. |
+| **01 · Understand** | Clarify the real problem before changing the code. |
+| **02 · Build** | Implement the smallest useful solution with readable code. |
+| **03 · Verify** | Test the behavior, edge cases, and underlying assumptions. |
+| **04 · Explain** | Document the reasoning so the next developer does not need to become an archaeologist. |
 
-`confused → explained → practiced → understood → shipped`
+<div align="center">
+  <code>confused → explained → practiced → understood → shipped</code>
+</div>
 
-No unnecessary complexity, mystery abstractions, or “trust me, it works” deployments.
+The goal is straightforward: no unnecessary complexity, mystery abstractions, or “trust me, it works” deployments.
 
 <div align="center">
   <img src="assets/meme-ctrl-z-relief.jpg" width="360" alt="The relief of recovering deleted code with Control Z" />
@@ -52,11 +54,11 @@ No unnecessary complexity, mystery abstractions, or “trust me, it works” dep
   <sub>Meme: <a href="https://www.boredpanda.com/funny-programming-memes-jokes/">Bored Panda</a></sub>
 </div>
 
-## How I teach
+## Teaching Approach
 
-Good teaching should leave people more independent than it found them. I focus on the mental model, show a real example, and make room for questions—especially the ones that start with “but why?”
+Good teaching should leave people more independent than it found them. I focus on the underlying mental model, demonstrate it with a real example, and make room for questions—especially the ones that begin with “but why?”
 
-My preferred lesson plan:
+My usual teaching process:
 
 1. Make the idea understandable.
 2. Build something small with it.
@@ -64,7 +66,7 @@ My preferred lesson plan:
 4. Debug it without blaming the framework.
 5. Ship it with confidence.
 
-## Working principles
+## Working Principles
 
 - Clarity beats cleverness.
 - Good design makes the next step obvious.
@@ -87,7 +89,7 @@ My preferred lesson plan:
 ---
 
 <div align="center">
-  <h3>Deployment complete. Confidence suspiciously high.</h3>
+  <h3>Deployment complete. Confidence remains suspiciously high.</h3>
   <sub>Final meme: <a href="https://medium.com/@devlinktips/ai-vibe-coding-is-killing-junior-dev-careers-or-is-it-e26966e4ae22">BuildShift on Medium</a></sub>
   <br />
   <img src="assets/meme-production-reality.jpg" width="480" alt="AI-written code passes tests before production goes down" />
