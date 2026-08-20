@@ -4,6 +4,12 @@
 
 I build useful web experiences and teach software in a clear, practical way. My focus is on thoughtful interfaces, dependable systems, and explanations that help people understand the *why* behind the code.
 
+<div align="center">
+  <img src="assets/kitty-code-gallery.png" width="900" alt="Byte, the orange cat developer, coding, debugging, and guarding the coffee" />
+  <br />
+  <sub><b>Code. Coffee. Debug. Repeat.</b></sub>
+</div>
+
 ## What I work with
 
 - **Frontend:** <img src="https://skillicons.dev/icons?i=js" width="20" height="20" align="absmiddle" alt="JavaScript" /> JavaScript · <img src="https://skillicons.dev/icons?i=ts" width="20" height="20" align="absmiddle" alt="TypeScript" /> TypeScript · <img src="https://skillicons.dev/icons?i=react" width="20" height="20" align="absmiddle" alt="React" /> React · <img src="https://skillicons.dev/icons?i=html" width="20" height="20" align="absmiddle" alt="HTML" /> HTML · <img src="https://skillicons.dev/icons?i=css" width="20" height="20" align="absmiddle" alt="CSS" /> CSS
