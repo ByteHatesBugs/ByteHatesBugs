@@ -5,7 +5,7 @@
 I build useful web experiences and teach software in a clear, practical way. My focus is on thoughtful interfaces, dependable systems, and explanations that help people understand the *why* behind the code.
 
 <div align="center">
-  <img src="assets/kitty-code-gallery.png" width="900" alt="Byte, the orange cat developer, coding, debugging, and guarding the coffee" />
+  <img src="assets/kitty-code-coffee.png" width="900" alt="Byte, the orange cat developer, enjoying coffee at a laptop" />
   <br />
   <sub><b>Code. Coffee. Debug. Repeat.</b></sub>
 </div>
@@ -17,6 +17,10 @@ I build useful web experiences and teach software in a clear, practical way. My 
 - **Data:** <img src="https://skillicons.dev/icons?i=postgres" width="20" height="20" align="absmiddle" alt="SQL" /> SQL · <img src="https://skillicons.dev/icons?i=postgres" width="20" height="20" align="absmiddle" alt="PostgreSQL" /> PostgreSQL · <img src="https://skillicons.dev/icons?i=postgres" width="20" height="20" align="absmiddle" alt="PL/pgSQL" /> PL/pgSQL
 - **Creative:** <img src="https://skillicons.dev/icons?i=blender" width="20" height="20" align="absmiddle" alt="Blender" /> Blender
 
+<div align="center">
+  <img src="assets/kitty-code-standing.png" width="480" alt="Byte, the orange cat developer, standing in a black coding hoodie" />
+</div>
+
 ## How I work
 
 I value simple solutions, readable code, and steady improvement. I like to understand the problem first, make the smallest useful change, and test the result before calling it done.
@@ -27,6 +31,10 @@ When I teach, the process is straightforward:
 
 No gatekeeping. No unnecessary complexity. Just direct answers, real examples, and room to ask better questions.
 
+<div align="center">
+  <img src="assets/kitty-code-coding.png" width="900" alt="Byte, the orange cat developer, coding at a laptop with coffee nearby" />
+</div>
+
 ## A few principles
 
 - Clarity beats cleverness.
@@ -36,3 +44,7 @@ No gatekeeping. No unnecessary complexity. Just direct answers, real examples, a
 - Coffee helps. Tests help more.
 
 > Ask questions, learn the why, test the fix, and never let a bug feel too comfortable.
+
+<div align="center">
+  <img src="assets/kitty-code-sleeping.png" width="560" alt="Byte, the orange cat developer, sleeping in a cozy black sleeping bag" />
+</div>
